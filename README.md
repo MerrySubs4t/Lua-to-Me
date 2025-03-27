@@ -1,4 +1,6 @@
-<h1>DD</h1>
+<h1>HOW TO USE 🔔</h1>
+
+<h1>วิธีใช้งาน 🎈</h1>
 
 ```lua
 _index = loadstring(game:HttpGet("https://raw.githubusercontent.com/MerrySubs4t/Softwork/refs/heads/main/Lua-to-Me"))()
